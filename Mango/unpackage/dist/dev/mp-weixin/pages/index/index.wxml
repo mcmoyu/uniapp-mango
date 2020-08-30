@@ -1,0 +1,1 @@
+<view class="container"><view class="intro" style="text-align:center;font-size:large;">欢迎使用：Mango</view><view class="_br"></view><view class="intro" style="text-align:center;"><text class="intro" style="text-align:center;">官方QQ群：725695686</text></view><view class="intro"><uni-link vue-id="8dd740cc-1" href="http://home.uiuk.cn" text="官方网站" bind:__l="__l"></uni-link></view></view>

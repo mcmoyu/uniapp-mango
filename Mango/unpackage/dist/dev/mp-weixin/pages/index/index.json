@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Mango - 优爱领券",
+  "usingComponents": {
+    "uni-link": "/components/uni-link/uni-link"
+  }
+}

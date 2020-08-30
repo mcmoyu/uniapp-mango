@@ -1,0 +1,47 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "Mango - 优爱领券"
+			}
+		},
+		{
+			"path": "pages/turn/turn",
+			"style": {
+				"navigationBarTitleText":"Mango - 转链"
+			}
+		},
+		{
+			"path":"pages/owner/owner",
+			"style":{
+				"navigationBarTitleText":"Mango - 我的"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "Mango",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF"
+	},
+	"tabBar":{
+		"color":"#FFFFFF",
+		"selectedColor":"#FF0000",
+		"backgroundColor":"#007AFF",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页"
+			},
+			{
+				"pagePath":"pages/turn/turn",
+				"text":"转链"
+			},
+			{
+				"pagePath":"pages/owner/owner",
+				"text":"我的"
+			}
+		]
+	}
+}
